@@ -1,0 +1,8 @@
+A division operator divides two numbers. If the two numbers are int values, it will only return the int factor of the answer.
+This means that if you divid 25 by 10 you will only return the value of 2.
+If you divide and int by a float, or a float by an int, it will return the divided value as a float.
+This means dividing 25 by 10.0 will return 2.5.
+The same goes for dividing two float types together. 
+
+The modulus operator gives the remainder of a value after dividing a given amount into that value.
+So, if you had 17 % 5 it would divide 17 by 5 the the remainder that can not be divided by 5 is return, in this case 2.

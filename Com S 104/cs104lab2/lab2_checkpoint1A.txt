@@ -1,0 +1,15 @@
+a)- 	The int() function and the ceil() function are very similar. 
+	They both will round the number to either whatever the first number is before the decimal or 1 more.
+
+	With the int() function, there will be no decimal after. 
+		This means if you do int(2.3) or int(2.7) they will both round to 2.
+
+	With the ceil() function it will round to the number shown before the decimal + 1. This includes a decimal after.
+		This means if you do ceil(34.2) or ceil(34.7) they will be rounded to 35.0.
+	
+	With the round() function, it rounds to either 1 up from the number before the decimal or to that number.
+		This means if you do round(2.4) it will be 2, and round(2.7) will be 3.
+		this function ignores negative values and will round to the number it would be if it was positive.
+
+b)-	The value of y does not change because it was never re-assigned after it was rounded.
+	Since it was not re-assigned, when you print y, it will still be the original value not the rounded value.

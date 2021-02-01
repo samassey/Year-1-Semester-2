@@ -1,0 +1,22 @@
+a)- 	To be able to identify and describe appropriate situations where a concept can be applied.
+	Be able to write correct Python syntax.
+	Be able to write small scale program to solve a simple real world problem using programming concepts.
+
+b)-	You must submit a zip file which contains all the files that you have created for your programming assignmentto canvas. 
+
+c)-	The deadline to appeal your grades is May 4.
+
+d)-	The midterm is Monday, April 2 to Friday, April 6.
+	The final is Monday, April 30 to Friday, May 4.
+
+e)-	i - true
+	ii - true
+	iii - true
+	iv - true
+	v - true
+	vi - true
+	vii - true
+
+f)-	Attempting to use unauthorized information in the completion of an exam or assignment.
+	Submitting as one's own work, themes, reports, drawings, labratory notes, computer programs or other products prepared by another person.
+	Plagiarism.

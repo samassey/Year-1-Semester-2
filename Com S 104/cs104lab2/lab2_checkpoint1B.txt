@@ -1,0 +1,25 @@
+***** Case 1 *****
+Hello World
+***** Case 2 *****
+Hello World
+***** Case 3 *****
+HelloWorld
+***** Case 4 *****
+Hello
+World
+***** Case 5 *****
+Hello World
+
+Case 1: This prints a normal "Hello World" since it was printed as one statement with both words in the same quoted marks.
+
+Case 2: This printed "Hello World" with a space using two different words put together with a comma in between.
+	Since there was a comma, you do not need to manually put in the space in between the words.
+
+Case 3: This was two seperate strings combined using a + simble.
+	Since the space between the words is not added in, it returns as "HelloWorld".
+
+Case 4: This was two strings being printed on seperate lines with no indication that they were connected. 
+	This is the reason it printed "hello" then "World" on the next line. 
+
+Case 5:	Since there are two strings being printed on and the comma comes between them, they will print as "Hello World".
+	The comma indicates there will be something else printed next to it on the same line.
